@@ -1,0 +1,9 @@
+.{
+    .name = "hello",
+    .version = "0.0.0",
+
+    .paths = .{
+        "hello.zig",
+    },
+}
+
